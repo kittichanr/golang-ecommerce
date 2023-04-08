@@ -5,6 +5,7 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
+	"github.com/kittichanr/golang-ecommerce/database"
 	"github.com/kittichanr/golang-ecommerce/middleware"
 	"github.com/kittichanr/golang-ecommerce/routes"
 )
