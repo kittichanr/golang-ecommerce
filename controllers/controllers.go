@@ -10,7 +10,7 @@ func VerifyPassword(userPassword string, givenPassword string) bool {
 
 }
 
-func Signup() gin.HandlerFunc {
+func SignUp() gin.HandlerFunc {
 
 }
 
@@ -22,10 +22,10 @@ func ProductViewerAdmin() gin.HandlerFunc {
 
 }
 
-func searchProduct() gin.HandlerFunc {
+func SearchProduct() gin.HandlerFunc {
 
 }
 
-func searchProductByQuery() gin.HandlerFunc {
+func SearchProductByQuery() gin.HandlerFunc {
 
 }
